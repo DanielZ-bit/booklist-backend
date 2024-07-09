@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\errors",
+    "\\middleware",
+    "\\models"
+  ],
+  "SelectedNode": "\\models\\auth.js",
+  "PreviewInSolutionExplorer": false
+}
